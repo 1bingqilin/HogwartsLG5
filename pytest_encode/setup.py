@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="pytest_encode",
-    url="https://github.com/xxx/pytest_encode",
+    url="https://github.com/1bingqilin/HogwartsLG5/tree/main/pytest_encode",
     version="1.0.1",
     author="xixi",
     author_email="418974188@qq.com",

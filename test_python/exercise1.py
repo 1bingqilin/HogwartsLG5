@@ -2,7 +2,7 @@ import os
 import sys
 import re
 import yaml
-from test3 import func2
+from test_3 import func2
 
 print(dir())
 func2(3)
